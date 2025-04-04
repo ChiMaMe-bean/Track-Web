@@ -42,7 +42,9 @@ jobs:
 
       - name: 部署文档
         uses: JamesIves/github-pages-deploy-action@v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.TRACK_TOKEN }}
         with:
           # 部署文档
-          branch: gh-pages
+          branch: html
           folder: src/.vuepress/dist
