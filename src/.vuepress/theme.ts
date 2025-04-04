@@ -24,7 +24,8 @@ export default hopeTheme({
   sidebar,
 
   // 页脚
-  footer: "默认页脚",
+  footer: "Copyright © 2025 ちまめ ",
+  copyright: false,
   displayFooter: true,
 
   // 加密配置
