@@ -11,7 +11,7 @@ export default hopeTheme({
     url: "https://space.bilibili.com/176288987",
   },
 
-  logo: "/assets/image/logo.ico",
+  logo: "./assets/image/logo.ico",
 
   repo: "ChiMaMe-bean/Track-Web",
 
@@ -42,6 +42,9 @@ export default hopeTheme({
   metaLocales: {
     editLink: "在 GitHub 上编辑此页",
   },
+
+  // 禁用页面贡献者
+  contributors: false,
 
   // 如果想要实时查看任何改变，启用它。注: 这对更新性能有很大负面影响
   // hotReload: true,
