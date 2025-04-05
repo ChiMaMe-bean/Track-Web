@@ -1,6 +1,7 @@
 ---
 title: 第 4 章 编辑器高级操作
 icon: lightbulb
+order: 6
 ---
 
 ## Welcome!

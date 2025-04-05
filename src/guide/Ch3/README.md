@@ -1,6 +1,7 @@
 ---
 title: 第 3 章 通关任务的高效执行：轨道执行器
 icon: lightbulb
+order: 5
 ---
 
 ## Welcome!

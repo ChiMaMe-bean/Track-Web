@@ -1,6 +1,7 @@
 ---
 title: 第 2 章 战斗方案的简洁设计：轨道编辑器
 icon: lightbulb
+order: 4
 ---
 
 ## Welcome!

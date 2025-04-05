@@ -1,6 +1,7 @@
 ---
 title: 第 1 章 新手快速入门
 icon: lightbulb
+order: 3
 ---
 
 ## Welcome!

@@ -16,7 +16,7 @@ actions:
     type: primary
 
   - text: 下载
-    link: ./guide/
+    link: ./guide/Download
 
 highlights:
   - header: 安装便捷
