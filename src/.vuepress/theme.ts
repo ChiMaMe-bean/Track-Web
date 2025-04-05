@@ -11,7 +11,7 @@ export default hopeTheme({
     url: "https://space.bilibili.com/176288987",
   },
 
-  logo: "./assets/image/logo.ico",
+  logo: "/assets/image/logo.ico",
 
   repo: "ChiMaMe-bean/Track-Web",
 
