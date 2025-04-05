@@ -187,5 +187,5 @@ highlights:
         link: https://theme-hope.vuejs.press/zh/guide/advanced/pwa.html
 
 copyright: false
-footer: 轨道编辑器由云涛晓雾开发，轨道网页使用手册由ちまめ开发。轨道内测组：云涛晓雾，ちまめ，石墨烯，繁水，nauxuyoahz，叹一声~知己难留，阿巴阿巴阿巴，絵月etsuki，江怿 <br> 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | MIT 协议, 版权所有 © 2019-至今 Mr.Hope <br> © 2025 ちまめ 轨道内测组成员保留所有权利
+footer: 轨道编辑器由云涛晓雾开发，轨道网页使用手册由ちまめ开发。轨道内测组：云涛晓雾，ちまめ，石墨烯，繁水，nauxuyoahz，叹一声~知己难留，果儿，絵月etsuki，江怿 <br> 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | MIT 协议, 版权所有 © 2019-至今 Mr.Hope <br> © 2025 ちまめ 轨道内测组成员保留所有权利
 

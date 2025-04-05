@@ -1,5 +1,4 @@
 import { defineUserConfig } from "vuepress";
-import { hopeTheme } from "vuepress-theme-hope";
 
 import theme from "./theme.js";
 
