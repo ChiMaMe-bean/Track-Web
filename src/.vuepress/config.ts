@@ -10,7 +10,7 @@ export default defineUserConfig({
   description: "一款简洁设计、高效执行的自动化软件",
 
   head: [
-    ["link", { rel: "icon", href: "/Track-Web/src/.vuepress/public/assets/image/logo.ico" }],
+    ["link", { rel: "icon", href: "/Track-Web/assets/image/logo.ico" }],
   ],
 
   theme,
