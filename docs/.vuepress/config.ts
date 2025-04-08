@@ -131,7 +131,7 @@ export default defineUserConfig({
       //   size: true,       // 启用图片大小
       // },
       //include: true,      // 在 Markdown 文件中导入其他 markdown 文件内容
-      imageSize: 'local', // 启用 自动填充 图片宽高属性，避免页面抖动
+      // imageSize: 'local', // 启用 自动填充 图片宽高属性，避免页面抖动
     },
 
     /**
