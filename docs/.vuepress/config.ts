@@ -3,13 +3,13 @@ import { defineUserConfig } from 'vuepress'
 import { plumeTheme } from 'vuepress-theme-plume'
 
 export default defineUserConfig({
-  base: '/<Track-Web>/',
+  base: '/Track-Web/',
   lang: 'zh-CN',
   title: '轨道编辑器',
   description: '轨道编辑器',
 
   head: [
-    ['link', { rel: 'icon', href: '/logo.ico' }],
+    ['link', { rel: 'icon', href: '/Track-Web/logo.ico' }],
   ],
 
   bundler: viteBundler(),
