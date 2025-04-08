@@ -25,7 +25,7 @@ config:
           theme: brand
           text: 精华消息
           # icon: chat
-          link: /message/
+          link: /notes/message/
         -
           theme: alt
           text: 下载
