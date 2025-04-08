@@ -1,0 +1,33 @@
+{
+  "name": "track-web",
+  "type": "module",
+  "version": "0.4.0",
+  "description": "Track-Web",
+  "author": "ChiMaMe-bean <dolphin202307@163.com>",
+  "license": "MIT",
+  "engines": {
+    "node": "^18.19.0 || ^20.6.0 || >=22.0.0"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:dev-clean": "vuepress dev docs --clean-cache --clean-temp",
+    "docs:build": "vuepress build docs --clean-cache --clean-temp",
+    "docs:preview": "http-server docs/.vuepress/dist",
+    "vp-update": "npx vp-update"
+  },
+  "devDependencies": {
+    "@vuepress/bundler-vite": "2.0.0-rc.20",
+    "http-server": "^14.1.1",
+    "sass-embedded": "^1.86.3",
+    "typescript": "^5.8.2",
+    "vue": "^3.5.13",
+    "vuepress": "2.0.0-rc.20",
+    "vuepress-theme-plume": "1.0.0-rc.140"
+  },
+  "dependencies": {
+    "artplayer": "^5.2.2",
+    "dashjs": "^5.0.0",
+    "hls.js": "^1.6.1",
+    "mpegts.js": "^1.8.0"
+  }
+}
