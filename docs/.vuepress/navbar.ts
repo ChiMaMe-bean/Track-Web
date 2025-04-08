@@ -2,7 +2,7 @@ import { defineNavbarConfig } from 'vuepress-theme-plume'
 
 export const navbar = defineNavbarConfig([
   { text: '首页', link: '/' },
-  { text: '简介与配置', link: '/demo/' },
+  { text: '简介与配置', link: '/demo/README.md' },
   {
     text: '手册',
     items: [
