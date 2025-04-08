@@ -6,7 +6,7 @@ import { notes } from './notes'
  * @see https://theme-plume.vuejs.press/config/basic/
  */
 export default defineThemeConfig({
-  logo: ' /Track-Web/logo.ico',
+  logo: '/logo.ico',
 
   appearance: true,  // 配置 深色模式
 
