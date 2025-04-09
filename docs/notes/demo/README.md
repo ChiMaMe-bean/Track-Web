@@ -1,7 +1,6 @@
 ---
 title: 简介与配置
 index: false
-icon: laptop-code
 tags:
   - 使用指南
 createTime: 2025/04/08 13:36:58
@@ -25,4 +24,4 @@ permalink: /demo/
 
 - 5.轨道的默认存储文件是Track.txt，轨道编辑器默认打开并自动保存此文件，可以通过更改文件名来保存一个自制轨道，具体详见使用手册。
 
-[轨道简介](/demo/rrgwltgh/)
+[轨道简介](/Track-Web/demo/rrgwltgh/)

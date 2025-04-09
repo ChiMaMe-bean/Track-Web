@@ -1,6 +1,5 @@
 ---
 title: 下载
-icon: lightbulb
 order: 2
 tags:
   - 使用指南

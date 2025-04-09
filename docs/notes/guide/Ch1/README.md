@@ -1,6 +1,5 @@
 ---
 title: 第 1 章 新手快速入门
-icon: lightbulb
 createTime: 2025/04/08 13:36:58
 permalink: /guide/uazuulry/
 ---

@@ -1,6 +1,5 @@
 ---
 title: 更新日志
-icon: lightbulb
 order: 3
 tags:
   - 日志

@@ -1,6 +1,5 @@
 ---
 title: 第 4 章 编辑器高级操作
-icon: lightbulb
 createTime: 2025/04/08 13:36:58
 permalink: /guide/3oknjeft/
 ---

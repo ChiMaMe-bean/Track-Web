@@ -1,6 +1,5 @@
 ---
 title: 第 3 章 通关任务的高效执行：轨道执行器
-icon: lightbulb
 createTime: 2025/04/08 13:36:58
 permalink: /guide/qjlxnxie/
 ---

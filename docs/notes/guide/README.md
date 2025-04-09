@@ -1,6 +1,5 @@
 ---
 title: 轨道使用手册
-icon: lightbulb
 order: 1
 tags:
   - 使用指南

@@ -30,7 +30,7 @@ export default defineThemeConfig({
   /* 站点页脚 */
   footer: {
     message: 'Power by <a target="_blank" href="https://v2.vuepress.vuejs.org/">VuePress</a> & <a target="_blank" href="https://theme-plume.vuejs.press">vuepress-theme-plume</a>',
-    copyright: '轨道编辑器由云涛晓雾开发，轨道网页使用手册由ちまめ开发。<br>轨道内测组：云涛晓雾，ちまめ，石墨烯，繁水，nauxuyoahz，叹一声~知己难留，果儿，絵月etsuki，江怿 <br>Copyright © 2025 ちまめ ',
+    copyright: '轨道编辑器由云涛晓雾开发，轨道网站由ちまめ开发<br>轨道内测组：云涛晓雾，ちまめ，石墨烯，繁水，nauxuyoahz，叹一声~知己难留，果儿，絵月etsuki，江怿<br>Copyright © 2025 ちまめ ',
   },
 
   /**

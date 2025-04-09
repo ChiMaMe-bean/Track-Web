@@ -1,6 +1,5 @@
 ---
 title: 第 5 章 执行器高级操作
-icon: lightbulb
 createTime: 2025/04/08 13:36:58
 permalink: /guide/8a759gok/
 ---

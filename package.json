@@ -1,7 +1,7 @@
 {
   "name": "track-web",
   "type": "module",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "Track-Web",
   "author": "ChiMaMe-bean <dolphin202307@163.com>",
   "license": "MIT",
@@ -25,6 +25,7 @@
     "vuepress-theme-plume": "1.0.0-rc.140"
   },
   "dependencies": {
+    "@iconify/json": "^2.2.324",
     "artplayer": "^5.2.2",
     "dashjs": "^5.0.0",
     "hls.js": "^1.6.1",
