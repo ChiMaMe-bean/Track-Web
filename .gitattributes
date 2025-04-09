@@ -1,9 +1,10 @@
-*.md linguist-language=Java 
-*.yml linguist-language=Java 
-*.html linguist-language=Java 
-*.js linguist-language=Java 
-*.xml linguist-language=Java
-*.css linguist-language=Java 
-*.sql linguist-language=Java
-*.uml linguist-language=Java 
-*.cmd linguist-language=Java 
+* text eol=lf
+*.txt text eol=crlf
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.ico binary
+*.tff binary
+*.woff binary
+*.woff2 binary
