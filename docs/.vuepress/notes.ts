@@ -27,6 +27,11 @@ const guideNote = defineNoteConfig({
       link: '/guide/lf79r21k/',
     }, 
     {
+      text: 'bilibili教程',
+      icon: 'ri:bilibili-fill',
+      link: '/guide/o3guo9br/',
+    }, 
+    {
       text: '第 1 章 新手快速入门',
       collapsed: true,  //开启折叠
       prefix: '/guide/uazuulry/',
