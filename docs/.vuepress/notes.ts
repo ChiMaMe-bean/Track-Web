@@ -82,10 +82,9 @@ const guideNote = defineNoteConfig({
       prefix: '/guide/8a759gok/',
       items: [
       { text: '第 5 章 执行器高级操作', link: '/guide/8a759gok/' , icon: 'material-symbols:lightbulb'},
-      { text: '5.1 自动带卡', link: '/guide/cjo0xlx8/' , icon: 'solar:book-bold'},
-      { text: '5.2 公会与情侣任务列表', link: '/guide/w6f6ywdi/' , icon: 'solar:book-bold'},
-      { text: '5.3 补阵原理与调控', link: '/guide/mzdpqza3/' , icon: 'solar:book-bold'},
-      { text: '5.4 任务监视', link: '/guide/8upqlk4f/' , icon: 'solar:book-bold'},
+      { text: '5.1 补阵原理与调控', link: '/guide/mzdpqza3/' , icon: 'solar:book-bold'},
+      { text: '5.2 任务监视', link: '/guide/8upqlk4f/' , icon: 'solar:book-bold'},
+      { text: '5.3 自动带卡', link: '/guide/cjo0xlx8/' , icon: 'solar:book-bold'},
     ]
     }],
 })
