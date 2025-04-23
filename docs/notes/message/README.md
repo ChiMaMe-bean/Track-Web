@@ -53,3 +53,15 @@ tags:
 
 ### tag：魔塔，星级限制
 ![](./picture/星级限制.jpg)
+
+### tag：宝石，强化，分解
+![](./picture/宝石强化数据.jpg)
+
+### tag：垫卡
+![](./picture/垫卡.jpg)
+
+### tag：新手入门
+![](./picture/新手入门.jpg)
+
+### tag：任务，新手任务，功能
+![](./picture/主线任务.png)
