@@ -63,3 +63,8 @@
   justify-content: center; /* 水平居中 */
   gap: 4px;               /* 图标与文字间距 */
 }
+
+.vp-home-hero.full {
+  display: flex; 
+  height: 500px !important;
+}

@@ -14,5 +14,6 @@ export const navbar = defineNavbarConfig([
       { text: '第 5 章 执行器高级操作', link: '/notes/guide/Ch5/README.md' },
     ]
   },
+  { text: '帮助文档', link: 'https://doc.mstrack.cn/download/使用手册.pdf' },
   { text: '精华消息', link: '/notes/message/README.md' },
 ])
