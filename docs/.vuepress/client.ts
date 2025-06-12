@@ -1,4 +1,5 @@
 import { defineClientConfig } from 'vuepress/client'
+import { onMounted } from 'vue'
 // import RepoCard from 'vuepress-theme-plume/features/RepoCard.vue'
 // import NpmBadge from 'vuepress-theme-plume/features/NpmBadge.vue'
 // import NpmBadgeGroup from 'vuepress-theme-plume/features/NpmBadgeGroup.vue'
@@ -21,10 +22,10 @@ export default defineClientConfig({
     // app.component('CustomComponent', CustomComponent)
   },
   setup() {
-    // 模拟 mounted 生命周期
-    $(document).ready(() => {
+    onMounted(() => {
+      // 确保只在 mounted 时执行，即浏览器中
       $(window).on('scroll', function () {
-        const len: number = $(this).scrollTop() as number;
+        const len = $(this).scrollTop() as number;
         if (len >= 400) {
           $('.scroll-down-arrow').fadeOut(100);
         } else {
