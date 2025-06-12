@@ -64,7 +64,35 @@
   gap: 4px;               /* 图标与文字间距 */
 }
 
-.vp-home-hero.full {
+/* .vp-home-hero.full {
   display: flex; 
   height: 500px !important;
+} */
+
+/* 向下箭头样式 */
+.scroll-down-arrow {
+  pointer-events: none; /* 禁用鼠标事件 */
+  position: fixed;
+  bottom: 40px;
+  left: 50%;
+  transform: translateX(-50%);
+  cursor: pointer;
+  z-index: 100;
+  animation: arrowJump 1.5s infinite;
+}
+
+.arrow-icon {
+  width: 30px;
+  height: 30px;
+  border: 2px solid currentColor;
+  border-width: 0 2px 2px 0;
+}
+
+@keyframes arrowJump {
+  0%, 100% { transform: translateY(0) rotate(45deg); }
+  50% { transform: translateY(10px) rotate(45deg); }
+}
+
+.vp-home-box.vp-home-text-image {
+  background-color: #F5FFFF;
 }

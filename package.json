@@ -16,6 +16,7 @@
     "vp-update": "npx vp-update"
   },
   "devDependencies": {
+    "@types/jquery": "^3.5.32",
     "@vuepress/bundler-vite": "2.0.0-rc.20",
     "http-server": "^14.1.1",
     "sass-embedded": "^1.86.3",
@@ -29,6 +30,7 @@
     "artplayer": "^5.2.2",
     "dashjs": "^5.0.0",
     "hls.js": "^1.6.1",
+    "jquery": "^3.7.1",
     "mpegts.js": "^1.8.0"
   }
 }
