@@ -20,16 +20,29 @@ export default defineClientConfig({
     // your custom components
     // app.component('CustomComponent', CustomComponent)
   },
+  setup() {
+    // 模拟 mounted 生命周期
+    $(document).ready(() => {
+      $(window).on('scroll', function () {
+        const len: number = $(this).scrollTop() as number;
+        if (len >= 400) {
+          $('.scroll-down-arrow').fadeOut(100);
+        } else {
+          $('.scroll-down-arrow').fadeIn(100);
+        }
+      });
+    });
+  }
 })
 
-$(function () {
-  $(window).on('scroll', function () {
-    const len: number = $(this).scrollTop() as number;
-    // 根据滚动位置决定显示或隐藏元素
-    if (len >= 400) {
-      $('.scroll-down-arrow').fadeOut(100); // 使用淡出效果
-    } else {
-      $('.scroll-down-arrow').fadeIn(100); // 使用淡入效果
-    }
-  });
-});
+// $(function () {
+//   $(window).on('scroll', function () {
+//     const len: number = $(this).scrollTop() as number;
+//     // 根据滚动位置决定显示或隐藏元素
+//     if (len >= 400) {
+//       $('.scroll-down-arrow').fadeOut(100); // 使用淡出效果
+//     } else {
+//       $('.scroll-down-arrow').fadeIn(100); // 使用淡入效果
+//     }
+//   });
+// });
