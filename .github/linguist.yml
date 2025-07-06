@@ -1,6 +1,16 @@
 # GitHub Linguist configuration
 # This file tells GitHub how to analyze the repository for language statistics
 
+# Include these directories in language analysis
+include:
+  - docs/.vuepress/config.ts
+  - docs/.vuepress/client.ts
+  - docs/.vuepress/notes.ts
+  - docs/.vuepress/plume.config.ts
+  - docs/.vuepress/theme/components/Custom.vue
+  - docs/.vuepress/theme/styles/custom.css
+  - project-info.ts
+
 # Exclude these from language analysis
 exclude:
   - docs/.vuepress/dist
