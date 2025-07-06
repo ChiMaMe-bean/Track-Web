@@ -1,24 +1,6 @@
 # GitHub Linguist configuration
 # This file tells GitHub how to analyze the repository for language statistics
 
-# Mark the repository as a documentation site
-documentation: true
-
-# Override language detection
-# Since this is primarily a VuePress site with TypeScript configuration
-language: TypeScript
-
-# Include these directories in language analysis
-include:
-  - docs/.vuepress/*.ts
-  - docs/.vuepress/*.js
-  - docs/.vuepress/*.vue
-  - docs/.vuepress/theme/**/*.ts
-  - docs/.vuepress/theme/**/*.js
-  - docs/.vuepress/theme/**/*.vue
-  - docs/.vuepress/theme/**/*.css
-  - docs/.vuepress/theme/**/*.scss
-
 # Exclude these from language analysis
 exclude:
   - docs/.vuepress/dist
@@ -26,4 +8,6 @@ exclude:
   - docs/.vuepress/.temp
   - node_modules
   - "*.min.js"
-  - "*.min.css" 
+  - "*.min.css"
+  - "*.log"
+  - package-lock.json 
