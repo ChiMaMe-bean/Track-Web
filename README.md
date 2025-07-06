@@ -1,25 +1,49 @@
-# track-web
+# Track-Web
 
-The Site is generated using [vuepress](https://vuepress.vuejs.org/) and [vuepress-theme-plume](https://github.com/pengzhanbo/vuepress-theme-plume)
+基于 VuePress 2.0 和 vuepress-theme-plume 主题构建的静态文档网站。
 
-## Install
+## 技术栈
 
-```sh
-npm i
-```
+- **VuePress 2.0** - 静态站点生成器
+- **vuepress-theme-plume** - VuePress 主题
+- **TypeScript** - 类型安全的 JavaScript
+- **Vue 3** - 渐进式 JavaScript 框架
+- **Vite** - 构建工具
+- **Sass** - CSS 预处理器
 
-## Usage
+## 开发
 
-```sh
-# start dev server
+```bash
+# 安装依赖
+npm install
+
+# 启动开发服务器
 npm run docs:dev
-# build for production
+
+# 构建生产版本
 npm run docs:build
-# preview production build in local
+
+# 预览构建结果
 npm run docs:preview
-# update vuepress and theme
-npm run vp-update
 ```
+
+## 项目结构
+
+```
+Track-Web/
+├── docs/                    # 文档目录
+│   ├── .vuepress/          # VuePress 配置
+│   │   ├── config.ts       # 主配置文件
+│   │   ├── client.ts       # 客户端配置
+│   │   ├── plume.config.ts # 主题配置
+│   │   └── ...
+│   └── notes/              # 文档内容
+└── package.json            # 项目配置
+```
+
+## 许可证
+
+MIT License
 
 ## Documents
 

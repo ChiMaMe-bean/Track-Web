@@ -1,6 +1,7 @@
 * text eol=lf
 *.txt text eol=crlf
 
+# Binary files
 *.png binary
 *.jpg binary
 *.jpeg binary
@@ -8,3 +9,18 @@
 *.tff binary
 *.woff binary
 *.woff2 binary
+
+# Code files - ensure they are tracked as text
+*.js text
+*.ts text
+*.vue text
+*.json text
+*.md text
+*.yml text
+*.yaml text
+*.css text
+*.scss text
+*.sass text
+*.html text
+*.xml text
+*.svg text

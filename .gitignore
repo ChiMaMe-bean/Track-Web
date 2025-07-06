@@ -1,8 +1,24 @@
+# Dependencies
 **/node_modules
 
+# VuePress build output
 docs/.vuepress/.cache
 docs/.vuepress/.temp
 docs/.vuepress/dist
 
+# OS generated files
 .DS_Store
 *.log
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Keep important config files
+!docs/.vuepress/config.ts
+!docs/.vuepress/client.ts
+!docs/.vuepress/plume.config.ts
+!docs/.vuepress/navbar.ts
+!docs/.vuepress/notes.ts
