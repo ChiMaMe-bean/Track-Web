@@ -18,4 +18,11 @@ exclude:
   - "iconify.css"
 
 # Force language detection for specific files
-# This ensures Vue and CSS files are properly recognized 
+# This ensures Vue and CSS files are properly recognized
+
+# Include all source code files
+include:
+  - "*.ts"
+  - "*.vue"
+  - "*.css"
+  - "*.js" 
