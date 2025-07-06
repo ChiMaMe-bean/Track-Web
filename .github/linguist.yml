@@ -1,16 +1,6 @@
 # GitHub Linguist configuration
 # This file tells GitHub how to analyze the repository for language statistics
 
-# Include these directories in language analysis
-include:
-  - docs/.vuepress/config.ts
-  - docs/.vuepress/client.ts
-  - docs/.vuepress/notes.ts
-  - docs/.vuepress/plume.config.ts
-  - docs/.vuepress/theme/components/Custom.vue
-  - docs/.vuepress/theme/styles/custom.css
-  - project-info.ts
-
 # Exclude these from language analysis
 exclude:
   - docs/.vuepress/dist
@@ -20,4 +10,12 @@ exclude:
   - "*.min.js"
   - "*.min.css"
   - "*.log"
-  - package-lock.json 
+  - package-lock.json
+  - "index.html.vue"
+  - "404.html.vue"
+  - "style-*.css"
+  - "articleTagColors.css"
+  - "iconify.css"
+
+# Force language detection for specific files
+# This ensures Vue and CSS files are properly recognized 
