@@ -85,6 +85,7 @@ const guideNote = defineNoteConfig({
       { text: '5.1 补阵原理与调控', link: '/guide/mzdpqza3/' , icon: 'solar:book-bold'},
       { text: '5.2 任务监视', link: '/guide/8upqlk4f/' , icon: 'solar:book-bold'},
       { text: '5.3 自动带卡', link: '/guide/cjo0xlx8/' , icon: 'solar:book-bold'},
+      { text: '5.4 检查任务', link: '/guide/v9pghbyn/' , icon: 'solar:book-bold'},
     ]
     }],
 })
