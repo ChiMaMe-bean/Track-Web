@@ -8,8 +8,8 @@ permalink: /guide/u1pv5ryr/
 ---
 
 ## 下载轨道编辑器
-[下载轨道安装包!（若提示是否信任文件请选择信任）](https://doc.mstrack.cn/download/轨道编辑器v4.9.1安装包.exe)<br>
-[下载轨道压缩包（下载不了安装包点此）](https://doc.mstrack.cn/download/轨道编辑器v4.9.1安装包.zip)<br>
+[下载轨道安装包!（若提示是否信任文件请选择信任）](https://doc.mstrack.cn/download/轨道编辑器v4.9.2安装包.exe)<br>
+[下载轨道压缩包（下载不了安装包点此）](https://doc.mstrack.cn/download/轨道编辑器v4.9.2安装包.zip)<br>
 [下载360游戏大厅（轨道稳定适配此版本）](https://doc.mstrack.cn/download/360game5_setup.exe)<br>
 [dll修复工具（若运行轨道时提示缺dll请下载）](https://doc.mstrack.cn/download/dll修复工具.zip)<br>
 [等线字体（若不能正确显示等线字体请下载）](https://doc.mstrack.cn/download/等线字体.zip)
