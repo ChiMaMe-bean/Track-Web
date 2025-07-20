@@ -19,7 +19,7 @@ const guideNote = defineNoteConfig({
     {
       text: '下载',
       icon: 'line-md:downloading-loop',
-      link: '/guide/u1pv5ryr/',
+      link: '/guide/11i6erwv/',
     }, 
     {
       text: '更新日志',

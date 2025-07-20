@@ -30,7 +30,7 @@ config:
           theme: alt
           text: 下载轨道
           icon: 'material-symbols:download'
-          link: /guide/u1pv5ryr/
+          link: /guide/11i6erwv/
 
   -
     type: image-text
