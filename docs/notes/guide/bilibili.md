@@ -11,6 +11,9 @@ permalink: /guide/o3guo9br/
 > [!tip]
 > 可以通过“此页内容”功能快速找到想要观看的教程！点击播放按钮即可播放！
 
+### 轨道挂机零基础快速入门
+@[bilibili](BV1W1YkztEmv)
+
 ### 轨道一周年宣传视频
 @[bilibili](BV1Tk2nYZEJy)
 
