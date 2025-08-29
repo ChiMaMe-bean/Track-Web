@@ -18,6 +18,11 @@ config:
           link: /demo/
         -
           theme: brand
+          text: 快速入门
+          icon: 'material-symbols:bolt-outline-rounded'
+          link: /guide/uazuulry/
+        -
+          theme: brand
           text: 使用手册
           icon: 'material-symbols:book-2-outline-rounded'
           link: /guide/

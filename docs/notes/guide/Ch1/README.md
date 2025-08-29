@@ -8,6 +8,15 @@ permalink: /guide/uazuulry/
 
 感谢大家使用轨道编辑器！请仔细阅读轨道使用手册（文件夹自带版或Web版均可），祝您有个愉快的使用体验！
 
+## 快速开始
+- 如果您只需要使用简单的轨道的自动化刷图功能，请阅读第 1 章以及下面的视频教程即可。
+
+> [!tip]
+> 轨道使用手册一共5个章节，虽然看起来很多但实际上快速上手刷图并不困难。千万不要因为文档较长被吓到了！
+
+<a href="https://www.bilibili.com/video/BV1W1YkztEmv">https://www.bilibili.com/video/BV1W1YkztEmv</a>
+@[bilibili](BV1W1YkztEmv)
+
 ## 新手快速入门
 本软件的构造如图所示：轨道编辑器编写轨道文件，然后输入轨道执行器执行刷图。
 ![](./picture/1.0.0.1.png)<br>
