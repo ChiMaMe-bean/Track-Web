@@ -29,8 +29,8 @@ export default defineThemeConfig({
 
   /* 站点页脚 */
   footer: {
-    message: 'Power by <a target="_blank" href="https://v2.vuepress.vuejs.org/">VuePress</a> & <a target="_blank" href="https://theme-plume.vuejs.press">vuepress-theme-plume</a>',
-    copyright: '轨道编辑器由云涛晓雾开发，轨道网站由ちまめ开发<br>轨道内测组：云涛晓雾，ちまめ，石墨烯，繁水，nauxuyoahz，叹一声~知己难留，果儿，絵月etsuki，江怿，诺言<br>Copyright © 2025 ちまめ <br> <span class="beian-links"> <img alt="备案编号图标" src="/Track-Web/beian.png" width="20"> <a href="https://beian.mps.gov.cn/#/query/webSearch?code=43010402002137" rel="noreferrer" target="_blank">湘公网安备43010402002137号</a> <a href="https://beian.miit.gov.cn/" target="_blank">湘ICP备2025113886号-1</a> </span>',
+    message: 'Power by <a target="_blank" href="https://v2.vuepress.vuejs.org/">VuePress</a> & <a target="_blank" href="https://theme-plume.vuejs.press">vuepress-theme-plume</a><br>轨道编辑器由云涛晓雾开发，轨道网站由ちまめ开发<br>轨道内测组：云涛晓雾，ちまめ，石墨烯，繁水，nauxuyoahz，叹一声~知己难留，果儿，絵月etsuki，江怿，诺言',
+    copyright: 'Copyright © 2025 ちまめ <br> <span class="beian-links"> <img alt="备案编号图标" src="/Track-Web/beian.png" width="20"> <a href="https://beian.mps.gov.cn/#/query/webSearch?code=43010402002137" rel="noreferrer" target="_blank">湘公网安备43010402002137号</a> <a href="https://beian.miit.gov.cn/" target="_blank">湘ICP备2025113886号-1</a> </span>',
   },
 
   /**
