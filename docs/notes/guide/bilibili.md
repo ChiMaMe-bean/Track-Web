@@ -14,6 +14,9 @@ permalink: /guide/o3guo9br/
 ### 轨道挂机零基础快速入门
 @[bilibili](BV1W1YkztEmv)
 
+### 轨道二周年宣传视频
+@[bilibili](BV1brWnzJEss)
+
 ### 轨道一周年宣传视频
 @[bilibili](BV1Tk2nYZEJy)
 

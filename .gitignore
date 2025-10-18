@@ -22,3 +22,6 @@ docs/.vuepress/dist
 !docs/.vuepress/plume.config.ts
 !docs/.vuepress/navbar.ts
 !docs/.vuepress/notes.ts
+
+# Server deployment files (sensitive configuration)
+server/
