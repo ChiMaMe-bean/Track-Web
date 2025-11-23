@@ -37,9 +37,10 @@ const guideNote = defineNoteConfig({
       prefix: '/guide/uazuulry/',
       items: [
       { text: '第 1 章 新手快速入门', link: '/guide/uazuulry/' , icon: 'material-symbols:lightbulb'},
-      { text: '1.1 一分钟开始刷神殿', link: '/guide/1llas1xv/' , icon: 'solar:book-bold'},
-      { text: '1.2 双人刷图', link: '/guide/shknjz87/' , icon: 'solar:book-bold'},
-      { text: '1.3 常见问题解答', link: '/guide/4w7vdo0z/' , icon: 'solar:book-bold'},
+      { text: '1.1 准备工作：游戏大厅的安装和配置', link: '/guide/cw3z8qgr/' , icon: 'solar:book-bold'},
+      { text: '1.2 单人刷图：一分钟开始刷神殿', link: '/guide/1llas1xv/' , icon: 'solar:book-bold'},
+      { text: '1.3 双人刷图', link: '/guide/shknjz87/' , icon: 'solar:book-bold'},
+      { text: '1.4 常见问题解答', link: '/guide/4w7vdo0z/' , icon: 'solar:book-bold'},
     ]
     }, 
     {
@@ -60,6 +61,7 @@ const guideNote = defineNoteConfig({
       { text: '第 3 章 通关任务的高效执行：轨道执行器', link: '/guide/qjlxnxie/' , icon: 'material-symbols:lightbulb'},
       { text: '3.1 普通任务', link: '/guide/t3syihh0/' , icon: 'solar:book-bold'},
       { text: '3.2 高级任务', link: '/guide/f0kz7lyd/' , icon: 'solar:book-bold'},
+      { text: '3.3 卡片强化系统', link: '/guide/pmep3q3i/' , icon: 'solar:book-bold'},
     ]
     },
     {
