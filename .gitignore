@@ -25,3 +25,9 @@ docs/.vuepress/dist
 
 # Server deployment files (sensitive configuration)
 server/
+
+# Cache
+cache.txt
+
+# PHP
+php/
