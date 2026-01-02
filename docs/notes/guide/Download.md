@@ -2,7 +2,7 @@
 title: 下载
 order: 2
 tags:
-  - 使用指南
+  - 下载
 createTime: 2025/04/08 13:36:58
 permalink: /guide/11i6erwv/
 ---
@@ -13,6 +13,9 @@ permalink: /guide/11i6erwv/
 [下载360游戏大厅（轨道稳定适配此版本）](https://yxdt.game.keniub.com/360game5_setup.exe)<br>
 [dll修复工具（若运行轨道时提示缺dll请下载）](https://doc.mstrack.cn/download/dll修复工具.zip)<br>
 [等线字体（若不能正确显示等线字体请下载）](https://doc.mstrack.cn/download/等线字体.zip)
+
+## 轨道DLC
+[动态验证DLC](https://doc.mstrack.cn/download/动态验证DLC.zip)
 
 ## 轨道交流群
 - 2群：815181032

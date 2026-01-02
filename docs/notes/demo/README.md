@@ -2,7 +2,7 @@
 title: 简介与配置
 index: false
 tags:
-  - 使用指南
+  - 配置
 createTime: 2025/04/08 13:36:58
 permalink: /demo/
 ---
